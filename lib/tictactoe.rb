@@ -266,7 +266,6 @@ class Game
 			play_again?
 		end
   end
-
 end
 
 game = Game.new
